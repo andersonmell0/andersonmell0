@@ -2,17 +2,22 @@
 My name is Anderson and in this page is possible find projetos that I'm studying.
 
 ### SpringBoot projects
-[Exemplo de Spring WEB MVC](https://github.com/andersonmell0/spring-web-mvc)
+[Exemplo em REST com CRUD de Jedi](https://github.com/andersonmell0/spring-web-mvc)
+- Spring WEB MVC
+- JPA
+- H2DB
 
 [Exemplo com CRUD de Funcionarios Cargos e Departamentos](https://github.com/andersonmell0/demo-mvc)
 - Spring MVC
 - Thymeleaf
+- JPA
 - MySql
 
 [Exemplo para agendamento de consultas pra clínicas](https://github.com/andersonmell0/demo-security)
 - Spring MVC
 - Thymeleaf
 - Spring Security
+- JPA
 - MySql
 
 [Exemplo de Sistema Escolar](https://github.com/andersonmell0/escolar)
