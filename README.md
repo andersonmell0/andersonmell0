@@ -21,6 +21,11 @@ My name is Anderson and in this page is possible find projetos that I'm studying
 - MySql
 
 [Exemplo de Sistema Escolar](https://github.com/andersonmell0/escolar)
+- Spring MVC
+- Thymeleaf
+- Spring Security
+- JPA
+- MySql
 
 <!--
 **andersonmell0/andersonmell0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
